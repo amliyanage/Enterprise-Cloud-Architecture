@@ -2,6 +2,12 @@
 
 A microservices-based enterprise application for educational institutions built with Spring Boot and React. This project demonstrates modern microservices architecture with multi-cloud deployment capabilities.
 
+<p align="left">
+  <strong>👤 Ashen Madhushanka</strong><br>
+  🎓 Student ID: <code>2301682034</code><br>
+  📧 Email: <a href="mailto:glamadushanka2@gmail.com">glamadushanka2@gmail.com</a>
+</p>
+
 ## 📺 Demo Video
 [**Watch Project Demo**](https://drive.google.com/file/d/19LK3bsCWygUfFD8o2ze-xaaV9O7_jWJ7/view?usp=sharing)
 
